@@ -33,5 +33,6 @@ To run this project, you will need the following Python libraries:
 
 3. **Open the Notebook:** Launch Jupyter and open Iris.ipynb to see the full analysis.
 
-Author
+**Author**
+
 Arefe Asadi
